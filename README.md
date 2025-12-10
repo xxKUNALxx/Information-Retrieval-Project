@@ -1,3 +1,6 @@
+
+PROJECT DEMO-- https://drive.google.com/file/d/1toZlhf_f-v-Wzf9VqjnryBlCwxhPJgOF/view?usp=sharing
+
 # Fashion Recommendation System 👗🛍️
 
 An advanced machine learning-powered fashion recommendation system that predicts customer purchases for H&M using hybrid collaborative filtering and customer segmentation techniques.
