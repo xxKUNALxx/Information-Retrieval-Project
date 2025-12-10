@@ -78,7 +78,7 @@ The project utilizes the **H&M Personalized Fashion Recommendations** dataset fr
 - **Mean Squared Error (MSE)**: Prediction accuracy
 - **Silhouette Score**: Clustering quality assessment
 
-**Supervisor**: Dr. M. Krishna Siva Prasad, Assistant Professor, CSE Department, SRM University-AP
+
 
 ## 🏫 Institution
 
